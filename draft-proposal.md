@@ -1,0 +1,37 @@
+---
+title: "my draft proposal for gsoc 2026",
+author: "Subhraneel Goswami"
+date: "Mar 7 2026"
+---
+
+# Project Information
+**Name**: Git Backend for Music Blocks Part 2
+**Length**: 350
+**Coding Mentors**: [Nikhil Bhatt](https://github.com/benikk) [Walter Bender](https://github.com/walterbender/)
+**Assisting Mentors**: [Devil Ulibarri](https://github.com/pikurasa/) [Sumit Srivastava](https://github.com/sum2it)
+
+# Student Details:
+**Full Name**: Subhraneel Goswami
+**Email**: [subhraneeljobs@gmail.com](malito:subhraneeljobs@gmail.com)
+**Github**: [subhraneel2005](https://www.github.com/subhraneel2005/)
+**Linkedin**: [Subhraneel-Goswami](https://www.linkedin.com/in/subhraneel-goswami-599931282/)
+**Preferred Language**: English
+**Location**: Kolkata, India
+**Timezone**: Indian Standard Time (IST) (UTC +05:30)
+**Institution**: Institute of Engineering and Management, Kolkata
+**Program**: Bachelors in Computer Applications (expected 2026)
+
+# About me
+As a student I love to use FOSS software, and was always curious to know what it takes to build them. When i first discovered "github" and saw engineers contributing their code on a single codebase, it amazed me and made me curious to dig deeper into the rabbit hole.
+
+The first project that I contributed to, was [Innovacion](https://github.com/benedicti0n/INNOVACION2025) our University's event website. I was so happy when my first code was merged into the project, eventually also step my first footsteps towards cloud deployment at there.
+
+Then started maxing out my skills on development. Built hands on [projects](https://github.com/subhraneel2005). Wrote short documentations and archtitecture decisions of my projects. Hosted them on github. Last summer did a 6 months internship remotely as a fullstack intern. It was jobs listing firm, i contributed in building their [chrome extension](https://chromewebstore.google.com/detail/pnnponmefnlhnjjlkakmfniadlplhkll?utm_source=item-share-cb), handled huge data in client and built their AI mock interview assistant from scratch.
+
+# My journey in Sugarlabs till now
+This year January **I came to know about Sugarlabs**. Explored the projects, found out about musicblocks. Got super excited about the project. Explored it, though i have very less knowledge about musical instruments, still it was so easy to wander around. 
+
+I started small: reading the codebase, joining the Matrix channel, picking up issues. Three merged PRs, several reviews, and a few raised issues later, I feel confident I understand the project well enough to contribute something meaningful this summer. 
+
+
+
